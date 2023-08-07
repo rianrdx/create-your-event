@@ -197,7 +197,7 @@ footer {
   border-radius: 0px 0px 8px 8px;
 }
 
-footer input {
+footer button {
   border: 0;
   background: #04d361;
   border-radius: 8px;
@@ -216,7 +216,7 @@ footer input {
   line-height: 26px;
 }
 
-footer input:hover {
+footer button:hover {
   background: #04d361d1;
 }
 
